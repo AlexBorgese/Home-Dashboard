@@ -3,6 +3,7 @@
 ## Contents so far
 
 **Date**
+
 **Time**
 
 ## In Progress
